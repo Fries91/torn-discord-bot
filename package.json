@@ -1,1 +1,14 @@
-
+{
+  "name": "torn-discord-bot",
+  "version": "1.0.0",
+  "description": "Torn City Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
